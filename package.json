@@ -1,0 +1,23 @@
+{
+  "name": "tokenutils",
+  "version": "1.0.0",
+  "description": "For fetching Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "0.27.2",
+    "cssjson": "^2.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackZhen1324/tokensUtils.git"
+  },
+  "author": "zq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackZhen1324/tokensUtils/issues"
+  },
+  "homepage": "https://github.com/JackZhen1324/tokensUtils#readme"
+}
